@@ -7,7 +7,7 @@
 - 📦 **Локальное хранилище: все данные указаны в базе SQLite на вашем устройстве.** 
 - 🔔 **Напоминания: получайте уведомления о предстоящих событиях.**  
 - 🗓️ **Календарь: удобная визуализация задач и мероприятий.**
->----------------------------
+
 
 
 ## Цель проекта:
@@ -40,7 +40,7 @@
 ## Финальная версия 
 **Справочник:**
 
-[README](https://github.com/HoshiBlood/An-event-planning-application/blob/docs/README.md)
+[README](https://github.com/HoshiBlood/An-event-planning-application/blob/main/README.md)
 
 **v1.0:** 
 
@@ -48,9 +48,9 @@
 
 **UML-диаграммы:**
 
-[Use_Case_Diagram](https://github.com/HoshiBlood/An-event-planning-application/blob/docs/docs/diagrams/Use_Case_Diagram.drawio.svg) 
+[Use_Case_Diagram]([https://github.com/HoshiBlood/An-event-planning-application/blob/docs/docs/diagrams/Use_Case_Diagram.drawio.svg](https://github.com/HoshiBlood/An-event-planning-application/blob/diagrams/docs/diagrams/Use_Case_Diagram.drawio.svg)) 
 
->----------------------------
+
 
 ## Команда разработчиков проекта «Кот на часах»
 **frontend-разработчики: Бойко Влад, Кузнецов Андрей**
